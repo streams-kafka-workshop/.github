@@ -41,6 +41,3 @@ The workshop is divided into several key modules, each with dedicated repositori
 7.  **Kafka and AI (Introduction)**
     *   **Why Kafka is Important in the Context of AI:** Understand the role of Kafka in AI/ML pipelines for real-time data ingestion and processing.
     *   **MCP with Kafka:** (Further details to be added)
-
-
-We look forward to an engaging and informative workshop!
