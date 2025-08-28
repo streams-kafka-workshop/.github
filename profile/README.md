@@ -1,4 +1,4 @@
-# Streams for Apache Kafka Workshop
+# Streams for Apache Kafka Workshop (This workshop is work in progress)
 
 Welcome to the Streams for Apache Kafka Workshop! This GitHub organization serves as the central hub for all materials related to our hands-on training sessions on Apache Kafka, with a special focus on stream processing using Kafka Streams.
 
